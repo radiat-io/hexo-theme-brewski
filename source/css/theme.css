@@ -94,7 +94,6 @@ table tbody tr:nth-child(2n) {
 }
 table tbody td {
   border: .05em solid transparent;
-  text-align: left;
 }
 table tbody th :first-child,
 table tbody td :first-child {
